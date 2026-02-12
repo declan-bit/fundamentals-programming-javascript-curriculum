@@ -2,7 +2,7 @@
   "name": "fundamentals-programming-javascript-curriculum-key",
   "version": "1.0.0",
   "private": true,
-  "description": "Sova Coding Fundamentals of Programming with Javascript Curriculum Key",
+  "description": "Sova Coding Fundamentals of Programming with Javascript Curriculum",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
