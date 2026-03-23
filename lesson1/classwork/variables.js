@@ -7,4 +7,4 @@ console.log(number);
 let favorite_food = "pizza";  // string: text
 console.log("My favorite food is " + favorite_food);
 
-console.log(3.18 + " dogs " + x);  // string concatenation
+console.log(3.18 + " dogs " + x);  // string concatenation.
